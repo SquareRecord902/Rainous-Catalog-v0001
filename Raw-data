@@ -1,0 +1,1206 @@
+[
+  {
+    "title": "Solace",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Flute", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "flute (2)" }
+    ],
+    "year": 2016,
+    "duration": "4:30",
+    "status": "completed",
+    "premiere": "Spring 2017",
+    "performer": "Joan Merrill and friend",
+    "commissioner": "Women's Missionary Society of the Brethren Church",
+    "difficulty": ["Easy"],
+    "series": ["Duos"],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/solace-for-flute-duo-2017" }
+    ],
+    "video_embeds": [
+      { "video_url": "https://www.youtube.com/watch?v=dR6tuXSzZZY" }
+    ],
+    "program_note": "",
+    "purchase_links": [
+      {
+        "label": "Sonolize",
+        "url": "https://www.sonolize.com/en/music/1712/solace",
+        "price": "€4"
+      },
+      {
+        "label": "SheetMusicDirect",
+        "url": "https://www.sheetmusicdirect.com/en-US/se/ID_No/1027078/Product.aspx",
+        "price": "$4.99"
+      }
+    ],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Sleep",
+    "ensemble": ["String Orchestra"],
+    "instrumentation": ["Soprano", "Violin", "Viola", "Cello", "Double Bass", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "soprano" },
+      { "instrumentation_detail": "violin (4)" },
+      { "instrumentation_detail": "viola (2)" },
+      { "instrumentation_detail": "cello (2)" },
+      { "instrumentation_detail": "double bass" }
+    ],
+    "year": 2019,
+    "duration": "7:00",
+    "status": "completed",
+    "premiere": "April 20, 2019, Ithaca College",
+    "performer": "Kin Szeto, conductor, and Monica Ramich, soprano",
+    "commissioner": "commissioner name",
+    "difficulty": ["Advanced"],
+    "series": ["My Children"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 4: for Cyrus Rico",
+    "ensemble": ["Cello"],
+    "instrumentation": ["Cello"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "",
+    "status": "in-progress",
+    "premiere": "",
+    "performer": "Kin Szeto, conductor, and Monica Ramich, soprano",
+    "commissioner": "commissioner name",
+    "difficulty": ["Professional"],
+    "series": ["Elegies"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Pieces for Two Violins",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Violin", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "violin (2)" }
+    ],
+    "year": 2017,
+    "duration": "9'",
+    "status": "completed",
+    "premiere": "November 2017",
+    "performer": "Gabriella Stout and Kathryn Drake",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Juvenilia"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [
+      {
+        "label": "SheetMusicDirect",
+        "url": "https://www.sheetmusicdirect.com/en-US/se/ID_No/1027083/Product.aspx",
+        "price": "12.99"
+      }
+    ],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Wedding Suite",
+    "ensemble": ["String Trio"],
+    "instrumentation": ["Violin", "Cello"],
+    "instrumentation_detail": [],
+    "year": 2016,
+    "duration": "10'-12'",
+    "status": "completed",
+    "premiere": "April 23, 2016",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Events"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Alleluia No. 1",
+    "ensemble": ["Choir"],
+    "instrumentation": ["Voice"],
+    "instrumentation_detail": [],
+    "year": 2016,
+    "duration": "1'30\"",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["24 Choral Preludes", "Juvenilia"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Alleluia No. 2",
+    "ensemble": ["Choir"],
+    "instrumentation": ["Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "SSAATTBB" }
+    ],
+    "year": 2016,
+    "duration": "1'45\"",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["24 Choral Preludes", "Juvenilia"],
+    "audio_embeds": [],
+    "video_embeds": [
+      { "video_url": "https://youtu.be/ZJq8_Enew6g?si=kNbZOc3kA8Sd-ZEL" }
+    ],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Pieces of Christmas, I. Trip to Mimi & Papaw's",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Flute", "Viola", "Bassoon"],
+    "instrumentation_detail": [],
+    "year": 2024,
+    "duration": "4:30",
+    "status": "in-progress",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Daily Pages", "Pieces of Christmas"],
+    "audio_embeds": [
+      { "audio_url": "https://jonathanrainous.substack.com/p/first-of-the-first-drafts-ab2" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "21 Miniatures for Flute",
+    "ensemble": ["Solo"],
+    "instrumentation": ["Flute"],
+    "instrumentation_detail": [],
+    "year": 2017,
+    "duration": "45\" -- 2' each",
+    "status": "completed",
+    "premiere": "ongoing performances",
+    "performer": "Joan Merrill, Robin Meiksins, Dr. Beth Ratay",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/sets/24-flute-miniatures" }
+    ],
+    "video_embeds": [
+      { "video_url": "https://youtu.be/AqspndYx2Jg" }
+    ],
+    "program_note": "",
+    "purchase_links": [
+      {
+        "label": "SheetMusicDirect",
+        "url": "https://www.sheetmusicdirect.com/en-US/Search.aspx?query=rainous%20miniatures&u=1",
+        "price": "$4.99 each"
+      },
+      {
+        "label": "Sheet Music Plus",
+        "url": "https://www.sheetmusicplus.com/en/explore?q=rainous%2Bminiatures",
+        "price": "$4.99 each"
+      }
+    ],
+    "catalog_note": ""
+  }
+]
+  ,
+  {
+    "title": "Reveries No. 1",
+    "ensemble": ["Solo"],
+    "instrumentation": ["Piano"],
+    "instrumentation_detail": [],
+    "year": 2016,
+    "duration": "",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Juvenilia"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Ruminations on the Potoo",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Trombone", "Clarinet", "Violin", "Piano", "Percussion"],
+    "instrumentation_detail": [],
+    "year": 2015,
+    "duration": "9:00-10:00",
+    "status": "completed",
+    "premiere": "April 2015",
+    "performer": "Daniel Torres, trombone soloist, with Grace McCaw, violin; Kathryn Coffer, clarinet; Josh McClellan, percussion; Jeff Burnham, piano",
+    "commissioner": "Daniel Torres",
+    "difficulty": ["Professional"],
+    "series": ["Juvenilia"],
+    "audio_embeds": [],
+    "video_embeds": [
+      { "video_url": "https://www.youtube.com/watch?v=KvOXoAUamuM" }
+    ],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Occasional No. 1",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Bassoon", "Violin", "Double Bass"],
+    "instrumentation_detail": [],
+    "year": 2022,
+    "duration": "11-15'",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Daily Pages"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Ostinato with Machines, No. 1",
+    "ensemble": ["String Orchestra"],
+    "instrumentation": ["Violin", "Viola", "Cello", "Double Bass", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "violin (2)" },
+      { "instrumentation_detail": "double bass(2)" }
+    ],
+    "year": 2025,
+    "duration": "4:00",
+    "status": "in-progress",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Daily Pages", "Ostinato Experiments"],
+    "audio_embeds": [
+      { "audio_url": "https://jonathanrainous.substack.com/p/ostinato-with-machines-no-1" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "I-75: Southward from Sault Ste. Marie",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "at least one keyboard(s) and/or mallet instrument(s)" },
+      { "instrumentation_detail": "minimum of two other instruments" }
+    ],
+    "year": 2023,
+    "duration": "25-70'",
+    "status": "completed",
+    "premiere": "November 28, 2023",
+    "performer": "The Academic Complex, University at Buffalo",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": ["I-75", "Open Instrumentation"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Homeward",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Flute", "Clarinet", "Saxophone", "Violin", "Cello", "Percussion", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2022,
+    "duration": "9:00",
+    "status": "completed",
+    "premiere": "workshopped March 2022",
+    "performer": "[Switch~ Ensemble]",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/sets/homeward-excerpts" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "[Repeat Once]",
+    "ensemble": ["Solo", "Electronic"],
+    "instrumentation": ["Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "theremin cello or electric cello with electronics" }
+    ],
+    "year": 2021,
+    "duration": "8'",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Rapture, 1. Exuberance",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Violin", "Cello", "Percussion"],
+    "instrumentation_detail": [],
+    "year": 2021,
+    "duration": "",
+    "status": "completed",
+    "premiere": "recorded June 2021",
+    "performer": "Slee Sinfonietta",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": ["Enraptured"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Concurrents/ce",
+    "ensemble": ["Brass Quintet"],
+    "instrumentation": ["Trumpet", "Horn", "Trombone", "Tuba"],
+    "instrumentation_detail": [],
+    "year": 2020,
+    "duration": "",
+    "status": "completed",
+    "premiere": "recorded February 2025",
+    "performer": "Atlantic Brass Quintet",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Overture for L",
+    "ensemble": ["Concerto"],
+    "instrumentation": ["Piano", "Orchestra"],
+    "instrumentation_detail": [],
+    "year": 2019,
+    "duration": "13'",
+    "status": "completed",
+    "premiere": "unpremiered",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Gethsemane",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Baritone", "Violin", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "coloratura soprano" },
+      { "instrumentation_detail": "clarinet / bass clarinet" }
+    ],
+    "year": 2019,
+    "duration": "5'",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": ["Via Dolorosa"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Symphony for Post-Moderns",
+    "ensemble": ["Orchestra"],
+    "instrumentation": ["Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "orchestra" }
+    ],
+    "year": 2018,
+    "duration": "7-9'",
+    "status": "completed",
+    "premiere": "April 7, 2019",
+    "performer": "Ithaca College Symphony Orchestra",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/symphony-for-post-moderns" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  }
+  ,
+  {
+    "title": "String Quartet No. 1, \"Imaginarium\"",
+    "ensemble": ["String Quartet"],
+    "instrumentation": ["Violin", "Viola", "Cello"],
+    "instrumentation_detail": [],
+    "year": 2018,
+    "duration": "18'-20'",
+    "status": "completed",
+    "premiere": "excerpts performed July 2018 in València, Spain",
+    "performer": "Mivos Quartet",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/sets/excerpts-from-string-quartet-no-1" }
+    ],
+    "video_embeds": [
+      { "video_url": "https://www.youtube.com/watch?v=14oPWX3_H3M" }
+    ],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "A Long Walk In the Garden of Vanquished Dreams",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Trumpet", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2023,
+    "duration": "33'",
+    "status": "completed",
+    "premiere": "December 2023",
+    "performer": "Walt Skidmore, Nicholas Emmanuel",
+    "commissioner": "Teressa-Jo Izzo",
+    "difficulty": ["Professional"],
+    "series": ["in the Garden of Vanquished Dreams"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Meditations In the Garden of Vanquished Dreams",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Piano", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "trumpet and electronics" }
+    ],
+    "year": 2023,
+    "duration": "various",
+    "status": "in-progress",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Quanta",
+    "ensemble": ["Solo"],
+    "instrumentation": ["Marimba"],
+    "instrumentation_detail": [],
+    "year": 2019,
+    "duration": "5'",
+    "status": "completed",
+    "premiere": "unperformed (postponed due to COVID-19)",
+    "performer": "Ujjal Bhattacharyya",
+    "commissioner": "Ujjal Bhattacharyya",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Sonatina for Euphonium",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Euphonium", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2013,
+    "duration": "8:00",
+    "status": "completed",
+    "premiere": "November 2013",
+    "performer": "Christopher Baldani",
+    "commissioner": "Christopher Baldani",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "To Reach for Heaven",
+    "ensemble": ["Solo"],
+    "instrumentation": ["Violin"],
+    "instrumentation_detail": [],
+    "year": 2022,
+    "duration": "13:00",
+    "status": "completed",
+    "premiere": "May 2022",
+    "performer": "Tyler Adamthwaite, University at Buffalo",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 3, for Ray Miller",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Violin", "Viola", "Cello", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2021,
+    "duration": "6-7'",
+    "status": "completed",
+    "premiere": "June 2022 (June in Buffalo Festival)",
+    "performer": "Slee Sinfonietta",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Elegies"],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/elegy-no-3-for-ray-miller" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fantasia for 5 Horns",
+    "ensemble": ["Brass Ensemble"],
+    "instrumentation": ["Horn", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "horn (5)" }
+    ],
+    "year": 2021,
+    "duration": "6'",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [
+      { "video_url": "https://youtu.be/dUV8SJ_0uLE" }
+    ],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Meditations, Nos. 1-3",
+    "ensemble": ["Solo"],
+    "instrumentation": ["Piano"],
+    "instrumentation_detail": [],
+    "year": 2020,
+    "duration": "various",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Meditations"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Suite for Flute and Clarinet",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Flute", "Clarinet"],
+    "instrumentation_detail": [],
+    "year": 2017,
+    "duration": "25:00",
+    "status": "completed",
+    "premiere": "partial premieres October 2017, April 2019 at Ithaca College",
+    "performer": "Nicole Murray, flute; Valerie Nuzzolo, clarinet",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Daily Pages", "Juvenilia"],
+    "audio_embeds": [
+      { "audio_url": "https://youtube.com/playlist?list=PLrSS87bP7AAd8tqZJ1DisG37N9QeOcgYI" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  }
+  ,
+  {
+    "title": "A Short Stroll in the Garden of Vanquished Dreams",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Trumpet", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2023,
+    "duration": "6:00",
+    "status": "completed",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "Teressa-Jo Izzo",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Downtempo Etude No. 1",
+    "ensemble": ["Concert Band"],
+    "instrumentation": [
+      "Flute", "Oboe", "Clarinet", "Bassoon",
+      "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone",
+      "Trumpet", "Horn", "Trombone", "Euphonium", "Tuba", "Percussion"
+    ],
+    "instrumentation_detail": [],
+    "year": 2024,
+    "duration": "6'",
+    "status": "completed",
+    "premiere": "Fall 2025",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fretless Dreams",
+    "ensemble": ["Solo With Electronics"],
+    "instrumentation": ["Electric Cello", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "optional electronicist or electronics triggered by performer via pedal and Max patch" }
+    ],
+    "year": 2025,
+    "duration": "40'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Professional"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Dark March",
+    "ensemble": ["String Orchestra"],
+    "instrumentation": ["Violin", "Viola", "Cello", "Double Bass"],
+    "instrumentation_detail": [],
+    "year": 2024,
+    "duration": "8'",
+    "status": "completed",
+    "premiere": "June 5, 2024",
+    "performer": "Buffalo String Works",
+    "commissioner": "Buffalo String Works",
+    "difficulty": ["Intermediate"],
+    "series": ["Side-by-side"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fanfares, No. 2: Grand March for an Eisteddfod",
+    "ensemble": ["Brass Ensemble"],
+    "instrumentation": ["Trombone", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "trombone (3)" }
+    ],
+    "year": 2022,
+    "duration": "2:30",
+    "status": "completed",
+    "premiere": "",
+    "performer": "",
+    "commissioner": "2022 Eisteddfod Festival in Australia",
+    "difficulty": ["Intermediate"],
+    "series": ["Fanfares"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Light Shines in the Darkness",
+    "ensemble": ["Concert Band"],
+    "instrumentation": [
+      "Flute", "Oboe", "Clarinet", "Bassoon",
+      "Saxophone", "Trumpet", "Horn",
+      "Trombone", "Euphonium", "Tuba", "Percussion"
+    ],
+    "instrumentation_detail": [],
+    "year": 2017,
+    "duration": "5'30\"",
+    "status": "completed",
+    "premiere": "recorded March 2018 at Ithaca College",
+    "performer": "Boynton MS Band",
+    "commissioner": "Boynton MS Band",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/light-shines-in-the-darkness" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fanfare No. 1, for Brass Quintet",
+    "ensemble": ["Brass Ensemble"],
+    "instrumentation": ["Trumpet", "Horn", "Trombone", "Tuba", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "trumpet (2)" }
+    ],
+    "year": 2018,
+    "duration": "0:45",
+    "status": "completed",
+    "premiere": "September 2018",
+    "performer": "Ithaca College",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["Fanfares"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fanfare No. 3",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Trombone", "Trombone", "Bass Trombone"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "3:00",
+    "status": "completed",
+    "premiere": "",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": ["Fanfares"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Fantasies on Old 100th",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Trombone", "Piano"],
+    "instrumentation_detail": [],
+    "year": 2013,
+    "duration": "4'-5'",
+    "status": "completed",
+    "premiere": "April 2014 at Belmont University",
+    "performer": "R. Alexander Plasket",
+    "commissioner": "R. Alexander Plasket",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [
+      { "video_url": "https://youtu.be/u8qfpCq2t_w" }
+    ],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Vignette No. 1",
+    "ensemble": ["Woodwind Quintet"],
+    "instrumentation": ["Flute", "Oboe", "Clarinet", "Bassoon", "Horn"],
+    "instrumentation_detail": [],
+    "year": 2017,
+    "duration": "2'15\"",
+    "status": "completed",
+    "premiere": "February 2018",
+    "performer": "District5",
+    "commissioner": "",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/vignettes-no-1-lazily" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "I Cry (Psalm 18)",
+    "ensemble": ["Choir"],
+    "instrumentation": ["Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "SSAABB" }
+    ],
+    "year": 2017,
+    "duration": "6:00",
+    "status": "completed",
+    "premiere": "May 2017",
+    "performer": "Cincinnati Christian School's High School choir",
+    "commissioner": "Cincinnati Christian School's High School choir, directed by Carolyn",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [
+      { "audio_url": "https://soundcloud.com/jonathan-rainous/i-cry-psalm-18-premiere-recording" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  }
+  ,
+  {
+    "title": "Haiku I",
+    "ensemble": ["Choir"],
+    "instrumentation": ["Voice", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "SSAABB" }
+    ],
+    "year": 2019,
+    "duration": "5'",
+    "status": "completed",
+    "premiere": "May 2023 at the University at Buffalo",
+    "performer": "UB students and faculty",
+    "commissioner": "Groton High School chamber choir",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Epithalamion for AM & NC",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Alto Saxophone", "Violin", "Guitar", "Bass"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "5'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Canon-fire No. 1, Palyndromia",
+    "ensemble": ["Brass Ensemble"],
+    "instrumentation": ["Trumpet"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 2",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Cello", "Flute"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "6'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["Elegies"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Trumpet Trio",
+    "ensemble": ["Brass Ensemble", "Chamber"],
+    "instrumentation": ["Trumpet"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "7'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 5, For Those Never Born",
+    "ensemble": ["Chamber", "Solo", "Open"],
+    "instrumentation": ["Piano", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "optional: 1-4 monophonic instruments, played with or without electronics, with parts for SATB instruments and allowing free octave transposition" }
+    ],
+    "year": 2025,
+    "duration": "11:30 - 75:00",
+    "status": "in-progress",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["Elegies", "Open Instrumentation"],
+    "audio_embeds": [
+      { "audio_url": "https://jonathanrainous.substack.com/p/elegy-no-5-for-those-never-born" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  }
+]
+  ,
+  {
+    "title": "Haiku I",
+    "ensemble": ["Choir"],
+    "instrumentation": ["Voice", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "SSAABB" }
+    ],
+    "year": 2019,
+    "duration": "5'",
+    "status": "completed",
+    "premiere": "May 2023 at the University at Buffalo",
+    "performer": "UB students and faculty",
+    "commissioner": "Groton High School chamber choir",
+    "difficulty": ["Advanced"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Epithalamion for AM & NC",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Alto Saxophone", "Violin", "Guitar", "Bass"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "5'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Canon-fire No. 1, Palyndromia",
+    "ensemble": ["Brass Ensemble"],
+    "instrumentation": ["Trumpet"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 2",
+    "ensemble": ["Chamber"],
+    "instrumentation": ["Cello", "Flute"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "6'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["Elegies"],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Trumpet Trio",
+    "ensemble": ["Brass Ensemble", "Chamber"],
+    "instrumentation": ["Trumpet"],
+    "instrumentation_detail": [],
+    "year": 2025,
+    "duration": "7'",
+    "status": "in-progress",
+    "premiere": "in progress",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": [],
+    "audio_embeds": [],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  },
+
+  {
+    "title": "Elegy No. 5, For Those Never Born",
+    "ensemble": ["Chamber", "Solo", "Open"],
+    "instrumentation": ["Piano", "Open"],
+    "instrumentation_detail": [
+      { "instrumentation_detail": "optional: 1-4 monophonic instruments, played with or without electronics, with parts for SATB instruments and allowing free octave transposition" }
+    ],
+    "year": 2025,
+    "duration": "11:30 - 75:00",
+    "status": "in-progress",
+    "premiere": "unperformed",
+    "performer": "",
+    "commissioner": "",
+    "difficulty": ["Intermediate"],
+    "series": ["Elegies", "Open Instrumentation"],
+    "audio_embeds": [
+      { "audio_url": "https://jonathanrainous.substack.com/p/elegy-no-5-for-those-never-born" }
+    ],
+    "video_embeds": [],
+    "program_note": "",
+    "purchase_links": [],
+    "catalog_note": ""
+  }
+]
